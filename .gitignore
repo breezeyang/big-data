@@ -2,3 +2,6 @@
 *.DS_store
 *.project
 *.settings
+*.idea
+*.mr-demo.xml
+mr-demo/mr-demo.iml
