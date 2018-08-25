@@ -1,4 +1,4 @@
-package com.breeze.mdr_demo.secondsort;
+package com.breeze.mr_demo.secondsort;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;

@@ -1,4 +1,4 @@
-package com.breeze.mdr_demo.secondsort;
+package com.breeze.mr_demo.secondsort;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Partitioner;

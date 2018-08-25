@@ -1,4 +1,4 @@
-package com.breeze.mdr_demo.wordcount;
+package com.breeze.mr_demo.wordcount;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

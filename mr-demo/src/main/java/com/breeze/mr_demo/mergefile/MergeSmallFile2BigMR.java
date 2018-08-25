@@ -1,4 +1,4 @@
-package com.breeze.mdr_demo.mergefile;
+package com.breeze.mr_demo.mergefile;
 
 import java.io.IOException;
 

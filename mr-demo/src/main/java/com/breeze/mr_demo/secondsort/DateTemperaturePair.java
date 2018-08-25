@@ -1,4 +1,4 @@
-package com.breeze.mdr_demo.secondsort;
+package com.breeze.mr_demo.secondsort;
 
 import java.io.DataInput;
 import java.io.DataOutput;

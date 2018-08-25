@@ -48,7 +48,7 @@
 							<transformers>
 								<transformer
 									implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>com.breeze.mdr_demo.mergefile.MergeSmallFile2BigMR</mainClass>
+									<mainClass>com.breeze.mr_demo.topn.TopNMR</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
