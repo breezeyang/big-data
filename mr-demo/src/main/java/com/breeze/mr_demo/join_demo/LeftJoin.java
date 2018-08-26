@@ -89,7 +89,7 @@ public class LeftJoin extends Configured implements Tool {
 
         if (args.length != 2) {
             throw new IllegalArgumentException(
-                    "!!!!!!!!!!!!!! Usage!!!!!!!!!!!!!!: TopN" + "<input-path> <output-path>");
+                    "!!!!!!!!!!!!!! Usage!!!!!!!!!!!!!!: lefjoin" + "<input-path> <output-path>");
         }
         Configuration conf = getConf();
         GenericOptionsParser optionparser = new GenericOptionsParser(conf, args);
