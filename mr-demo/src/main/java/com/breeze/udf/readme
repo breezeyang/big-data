@@ -1,0 +1,4 @@
+1 打包
+2 add jar udf.jar;
+3 create temporary function logid as 'com.breeze.udf.LongIdUDF';
+4 select logid(1) from t_user;
