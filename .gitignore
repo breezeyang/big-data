@@ -6,3 +6,4 @@
 *.mr-demo.xml
 mr-demo/mr-demo.iml
 mr-demo/dependency-reduced-pom.xml
+mr-demo/bin/mr-demo.iml
